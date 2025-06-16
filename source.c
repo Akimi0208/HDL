@@ -26,7 +26,7 @@ void unpack_float(uint32_t f, uint8_t* sign, uint8_t* int_part, uint8_t* frac_pa
 }
 
 int main() {
-    FILE* file = fopen("D:\SOCTH\FPU\testcase.txt.txt", "r");
+    FILE* file = fopen("D:\SOCTH\FPU\testcase.txt", "r");  //Tùy vào vị trí file testcase
     if (!file) {
         printf("Không thể mở testcase.txt\n");
         return 1;
