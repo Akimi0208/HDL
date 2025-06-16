@@ -11,4 +11,5 @@ MULTIPLY Module:
 ![image](https://github.com/user-attachments/assets/799e6c89-6d9b-4a25-9dfa-ca0af381889d)
 
 DIVIDE Module:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/093642f9-a712-4ed8-901e-c2afd84a03bd)
+
