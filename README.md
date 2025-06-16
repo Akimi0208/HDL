@@ -5,7 +5,7 @@ PROJECTS: IEEE-754 Floating Point Unit (FPU) Design and Integration on FPGA:
 4) Synthesized and deployed the design on an Altera DE2 FPGA board using Intel Quartus Prime. 
 
 ADD/SUB Module:
-![image](https://github.com/user-attachments/assets/8a4dfb54-082f-4e19-b681-3795d6abc254)
+![image](https://github.com/user-attachments/assets/9408dd8b-b52a-452b-b161-c5706fee16a3)
 
 MULTIPLY Module:
 ![image](https://github.com/user-attachments/assets/878ccc0a-a7eb-4e5f-b325-e84857d16354)
