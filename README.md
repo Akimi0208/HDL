@@ -25,10 +25,10 @@ Hardware resoures:
 
 
 Wrapping:
+
 ![image](https://github.com/user-attachments/assets/0b03dbe7-bd99-490b-a6ee-aacabc0fae13)
 
 
 Demo Video:
 https://drive.google.com/file/d/1oJu5UzFYVQhAX39hspz_EpNQeaSzmBik/view?usp=drive_link
-![image](https://github.com/user-attachments/assets/99bb7c9d-2c80-42dd-b474-aadca22921bc)
 
