@@ -8,7 +8,7 @@ ADD/SUB Module:
 ![image](https://github.com/user-attachments/assets/8a4dfb54-082f-4e19-b681-3795d6abc254)
 
 MULTIPLY Module:
-![image](https://github.com/user-attachments/assets/799e6c89-6d9b-4a25-9dfa-ca0af381889d)
+![image](https://github.com/user-attachments/assets/878ccc0a-a7eb-4e5f-b325-e84857d16354)
 
 DIVIDE Module:
 ![image](https://github.com/user-attachments/assets/093642f9-a712-4ed8-901e-c2afd84a03bd)
